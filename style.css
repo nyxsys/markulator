@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+
+
+body{
+    font-family: Bangers;
+}
+
+button{
+    margin:5px;
+    height:40px;
+    min-width:40px;
+    color:black;
+    background-color: grey;
+    outline-color: black;
+    outline-style: solid;
+    outline-width: 5px;
+    font-family: Bangers;
+}
+
+p{
+    font-size:2em;
+}
+
+.view{
+    height:30px;
+}
